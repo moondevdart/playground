@@ -1,0 +1,17 @@
+name: xpath
+description: A simple command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=2.19.0-392.0.dev <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+dependencies:
+  http: ^0.13.5
+  xpath_selector: ^3.0.1
+  xpath_selector_html_parser: ^3.0.0
