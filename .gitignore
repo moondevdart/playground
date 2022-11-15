@@ -23,3 +23,5 @@ doc/api/
 # User Defined
 .env
 setup.md
+*.exe
+*.dll
