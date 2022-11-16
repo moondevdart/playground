@@ -25,3 +25,4 @@ doc/api/
 setup.md
 *.exe
 *.dll
+secret.*
