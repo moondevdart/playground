@@ -1,0 +1,21 @@
+name: win32_runner
+description: Compile and run a Flutter app without needing any C/C++ code. Just Dart!
+version: 0.0.7
+repository: https://github.com/timsneath/win32_runner
+
+environment:
+  sdk: '>=2.15.0 <3.0.0'
+
+platforms:
+  windows:
+
+dependencies:
+  args: ^2.3.0
+  ffi: ^1.1.2
+  win32: ^2.3.10
+  # win32_runner: 
+
+
+dev_dependencies:
+  lints: ^1.0.1
+  test: ^1.20.1
