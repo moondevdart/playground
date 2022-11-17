@@ -46,3 +46,26 @@ void main() {
     print(node.text);
   }
 }
+
+
+// web scraper
+// https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn
+
+// html -> (json schema) -> json
+
+// root:
+//   - root:
+//     - { xpath: name: 
+
+//   - nodes
+//     [
+//       {xpath, name, leafs: [], multi: false},
+//     ]
+//   - leafs
+//     [
+//        {xpath: "", name: "", leaf: "", multi: false},
+//     ]
+
+
+
+// leaf: text, content, href, @attr
